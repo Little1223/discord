@@ -1,2 +1,5 @@
 discord.py
 yt_dlp
+youtube-dl 
+requests     2.32.3
+ffmpeg       1.4
